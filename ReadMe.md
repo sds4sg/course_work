@@ -9,10 +9,10 @@ This repository contains environment specification and a basic structure of the 
 1. Install Pixi using the [installation instructions](https://pixi.sh/latest/#installation).
 2. Clone or simply download this repository. There's a download button under the green `Code` button.
 3. Navigate to the folder on your local drive (using Terminal or Command Line).
-4. Install the enviroment using `pixi install`.
+4. Install the environment using `pixi install`.
 5. Start the IDE using `pixi run jupyter lab`.
 
-## Using the environemnt
+## Using the environment
 
 Any time you want to use the environment, navigate to the folder and start Jupyter Lab using `pixi run jupyter lab`.
 
