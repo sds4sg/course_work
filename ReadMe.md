@@ -8,7 +8,7 @@ This repository contains environment specification and a basic structure of the 
 
 1. Install Pixi using the [installation instructions](https://pixi.sh/latest/#installation).
 2. Clone your repository generated within Github Classroom.
-3. Navigate to the folder on your local drive (using Terminal or Command Line).
+3. Navigate to the folder on your local drive (using Terminal or Powershell).
 4. Install the environment using `pixi install`.
 5. Start the IDE using `pixi run jupyter lab`.
 
