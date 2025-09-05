@@ -1,6 +1,6 @@
-# Spatial Data Science for Social Geography template
+# Spatial Data Science template
 
-This is a template repository for the [Spatial Data Science for Social Geography](http://martinfleischmann.net/sds/) course taught at Charles University.
+This is a template repository for the [Spatial Data Science](http://martinfleischmann.net/sds/) course taught at Charles University.
 
 This repository contains environment specification and a basic structure of the course. See the [Infrastructure](https://martinfleischmann.net/sds/course_information/infrastructure.html) description on the course homepage for details.
 
@@ -18,7 +18,7 @@ Any time you want to use the environment, navigate to the folder and start Jupyt
 
 ## Folder structure
 
-The repository has a structure prepared for 12 lessons and an assignment. Please stick to the structure as it will greatly help evaluation.
+The repository has a structure prepared for all the lessons and an assignment. Please stick to the structure as it will greatly help evaluation.
 
 ## Issues
 
